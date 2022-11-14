@@ -1,4 +1,4 @@
-## Evil-Droid Framework . version 0.3 
+## Evil-Droid Framework . version 1.0
     Author: Mascerano Bachir [ dev-labs ]
     Credit: M.Badry SHAD0W
 
